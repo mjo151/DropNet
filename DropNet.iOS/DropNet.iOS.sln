@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropNet.MonoTouch", "DropNet.MonoTouch.csproj", "{E9580EFC-6014-4D3B-82A8-5F6D57213CE4}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropNet.iOS", "DropNet.iOS.csproj", "{E9580EFC-6014-4D3B-82A8-5F6D57213CE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

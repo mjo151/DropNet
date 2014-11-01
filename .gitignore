@@ -36,3 +36,5 @@ download/
 *.pidb
 *.userprefs
 /DropNet.Tests/TestVariables.cs
+/DropNet.Android/Resources/
+/DropNet.Android/Components/
